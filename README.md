@@ -1,1 +1,1 @@
-stri
+striv
